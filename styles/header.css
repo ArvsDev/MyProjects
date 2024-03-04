@@ -33,7 +33,6 @@
 .hamburger-menu{
   height: 24px;
   width: 24px;
-  margin-bottom: 2px;
 }
 .hamburger-menu:hover{
   cursor: pointer;
